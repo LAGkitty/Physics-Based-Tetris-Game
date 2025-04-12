@@ -1,5 +1,7 @@
 # Physics-Based Tetris Game
 
+GENERATED WITH CLAUDE AI
+
 This project is a physics-enhanced version of the classic Tetris game, implemented using Python with `pygame` and `pymunk` libraries. It introduces unique gameplay mechanics by incorporating physics-based interactions and shaking controls.
 
 ## Features
